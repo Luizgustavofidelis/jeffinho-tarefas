@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+			"http://www.w3.org/TR/html4/strict.dtd">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+<html>
+	<head>
+		<title>Curriculo luiz gustavo</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	
+    <img src="luiz.png" alt="photo" class="photo"/>
+
+	<body>
+		<h1>Johnny Five o robo</h1>
+        
+		<hr>
+		<div class="secao">
+			<h2>perfil</h2>			
+
+			<p>robo formado em medicina e telecomunicaçoes, adora a natureza e sonha em um dia viver junto aos humanos</p>
+			 
+
+				<span> </span>
+			
+				<div class="adr">
+				  <span class="locality">Foz do iguaçu</span>
+				, 
+				  <span class="region">Paraná</span>
+
+				  <hr>
+
+				 </div>
+				</div>
+		</div>
+
+		<div class="secao">
+			<h2>Principais competencias</h2>
+			
+			<p><label>-pedreiro  </label>formado</p>
+			<p><label>-Dono da</label> Copel</p>
+			<p><label>-cirurgiao </label>renomado</p>
+		</div>
+
+		<hr>
+
+		<div class="secao">
+			<h2>Formação academica</h2>
+			
+			<p><label>-Fez o curso do ben 10 de </label>Especializacao em aliens</p>
+			<p><label>-Fez medicina com a </label>Doutora brinquedos</p>
+			<p><label>-Viu todos os cursos do </label> Guanabára</p>
+		</div>
+		
+		<hr>
+
+		<div class="secao">
+			<h2>Experiencia profissional</h2>
+
+			<p> Nao tem nenhuma ainda mas esta procurando...</p>
+
+
+		</div>
+
+		<div class="secao">
+			<h2>contato Profissional</h2>
+
+			<p> <a href="https://pt.wikipedia.org/wiki/Rob%C3%B4">Link de explicaçao sobre mim</a></p>
+			<p> <a href="">(45)9999-9999</a></p>
+			<p> <a href="">robolegal@gmail.com</a></p>
+
+		
+		</div>
+	</body>
+</html>
